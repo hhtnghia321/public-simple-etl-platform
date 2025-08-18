@@ -1,0 +1,17 @@
+note.txt
+.env
+deploy.sh
+gitlab_deploy_key.pub
+gitlab_deploy_key
+docker-compose.gitlabrunner.yml
+target
+netdata_child
+netdata_parent
+!OpenMetaData\Elasticsearch\.env
+!trino\trino-worker\data
+!trino\trino-coordinator\data
+Data_local
+*.csv
+*.ipynb
+truststore.jks
+*.log
