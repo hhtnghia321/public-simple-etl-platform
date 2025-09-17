@@ -87,7 +87,7 @@ bash -x down_full_flow.sh
 - DBT model pattern split a ETL into 3 steps:
   - Staging: mainly focus on select, and filter (for smaller table) and may contain simple data type conversion
   - Intermediate: input from Staging, mainly focus on join, union and single columns transformation
-  - Marts: input from Intermediate, mainly focus on aggregation, format model (snapshot or incremental table), join from Intermediate and multiple columns transformation.
+  - Fact: input from Intermediate, mainly focus on aggregation, format model (snapshot or incremental table), join from Intermediate and multiple columns transformation.
 
 ## OpenMetaData
 
