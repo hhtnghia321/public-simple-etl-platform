@@ -123,7 +123,7 @@ dbt init [project_name] --skip-profile-setup
 
 ## CI/CD
 
-- A in process gitlab runner (not a separate container as a gitlab runner) is need for CI/CD. Since The deployment process will include copy files into production server and initiallize containers
+- A in process gitlab runner (not a separate container as a gitlab runner) is needed for CI/CD. Since The deployment process will include copy files into production server and initiallize containers
 
 ### Deployments Once Gitlab CI running
 
