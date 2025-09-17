@@ -1,4 +1,4 @@
-# Analytical-Data-Stack
+# Simple-ETL-Platform
 
 ## Overview
 
